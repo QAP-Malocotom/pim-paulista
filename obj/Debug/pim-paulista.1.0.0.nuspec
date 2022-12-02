@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>pim-paulista</id>
+    <version>1.0.0</version>
+    <authors>pim-paulista</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Desenvolvimento\C#\pim\pim-paulista\pim-paulista\bin\Debug\net6.0-windows\pim-paulista.runtimeconfig.json" target="lib\net6.0-windows7.0\pim-paulista.runtimeconfig.json" />
+    <file src="D:\Desenvolvimento\C#\pim\pim-paulista\pim-paulista\bin\Debug\net6.0-windows\pim-paulista.dll" target="lib\net6.0-windows7.0\pim-paulista.dll" />
+  </files>
+</package>
