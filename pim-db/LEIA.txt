@@ -1,0 +1,1 @@
+Gordinho, aqui tem toda a syntax do banco (+2180 linhas), acho q ficou faltando somente e criar a tabela de apolice no banco mas a syntax dela está ai também, só roda o codigo.

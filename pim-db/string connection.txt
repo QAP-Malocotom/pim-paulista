@@ -1,0 +1,4 @@
+ip = pim-paulista.mysql.database.azure.com
+database = pim
+user = azuredev
+senha = Faculdade,22
